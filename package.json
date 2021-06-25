@@ -1,0 +1,28 @@
+{
+  "name": "Mocha-Chai_training",
+  "version": "1.0.0",
+  "description": "Training repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolaenko94/Mocha-Chai_training.git"
+  },
+  "keywords": [
+    "node.js",
+    "mocha",
+    "chai",
+    "unit-testing"
+  ],
+  "author": "Stanislav_Nikolaenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikolaenko94/Mocha-Chai_training/issues"
+  },
+  "homepage": "https://github.com/Nikolaenko94/Mocha-Chai_training#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
